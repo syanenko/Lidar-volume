@@ -1,4 +1,4 @@
-# Lidar-volume
+# Lidar volume
  Simple Matlab script for calculation volume of terrain object (heap, hill, mountain, etc) by point cloud produces by LIDAR.
 
  Test data was loaded from [OpenTopography](https://opentopography.org/) site, following toolboxes are necessary:
