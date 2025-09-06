@@ -4,7 +4,7 @@
  Test data was loaded from [OpenTopography](https://opentopography.org/) site, following toolboxes are necessary:
  
 **Lidar Toolbox**  
-**Computer Vision Toolbox**<br><br>
+**Computer Vision Toolbox**<br>
 Tested under Matlab R2021b (9.11.0)
 
 ![image](https://user-images.githubusercontent.com/6688301/145545595-1f822c89-c63f-4410-8cda-b5c2c2ea738d.png)
